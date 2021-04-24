@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: rgb(230, 255, 4);
+    background-color: whitesmoke
 }
 
 .box_1,{
@@ -31,6 +31,11 @@ body{
     font-size: 40px;
     margin: 20px auto;
 }
+
+.box_1 audio{
+    width: auto;
+}
+
 
 .box_3 p{
     text-align: justify;
